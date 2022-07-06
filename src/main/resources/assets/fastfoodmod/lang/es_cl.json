@@ -1,0 +1,17 @@
+{
+  "item.fastfoodmod.cheese": "Queso",
+  "item.fastfoodmod.ketchup": "Salsa de Tomate",
+  "item.fastfoodmod.lettuce": "Lechuga",
+  "item.fastfoodmod.dough": "Masa",
+  "item.fastfoodmod.spice_leaf": "Hoja de Especia",
+
+  "item.fastfoodmod.pizza": "Pizza",
+  "item.fastfoodmod.hamburger": "Hamburguesa",
+  "item.fastfoodmod.taco": "Taco",
+  "item.fastfoodmod.chocolate_bar": "Barra de Chocolate",
+  "item.fastfoodmod.french_fries": "Papas Fritas",
+  "item.fastfoodmod.soda": "Soda",
+
+  "itemGroup.fastfoodmod.fastfood": "Comidas rapidas"
+
+}

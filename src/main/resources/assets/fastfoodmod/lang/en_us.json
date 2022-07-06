@@ -1,0 +1,18 @@
+{
+  "item.fastfoodmod.cheese": "Cheese",
+  "item.fastfoodmod.ketchup": "Ketchup",
+  "item.fastfoodmod.lettuce": "Lettuce",
+  "item.fastfoodmod.dough": "Dough",
+  "item.fastfoodmod.spice_leaf": "Spice Leaf",
+
+  "item.fastfoodmod.pizza": "Pizza",
+  "item.fastfoodmod.hamburger": "Hamburger",
+  "item.fastfoodmod.taco": "Taco",
+  "item.fastfoodmod.chocolate_bar": "Chocolate Bar",
+  "item.fastfoodmod.french_fries": "French Fries",
+  "item.fastfoodmod.soda": "Soda",
+
+
+  "itemGroup.fastfoodmod.fastfood": "Fast Food"
+
+}

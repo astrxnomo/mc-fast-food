@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "LCK",
+    "PPP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:bread"
+    },
+    "C": {
+      "item": "minecraft:cooked_beef"
+    },
+    "K": {
+      "item": "fastfoodmod:ketchup"
+    },
+    "L": {
+      "item": "fastfoodmod:lettuce"
+    }
+  },
+  "result": {
+    "item": "fastfoodmod:hamburger",
+    "count": 2
+  }
+}

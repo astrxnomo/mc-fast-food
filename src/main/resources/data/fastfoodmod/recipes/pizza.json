@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "QQQ",
+    "PPP"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cooked_beef"
+    },
+    "P": {
+      "item": "fastfoodmod:dough"
+    },
+    "Q": {
+      "item": "fastfoodmod:cheese"
+    }
+  },
+  "result": {
+    "item": "fastfoodmod:pizza",
+    "count": 1
+  }
+}
