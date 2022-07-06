@@ -4,6 +4,8 @@ A simple mod where fast food are added to minecraft using Fabric API and Java.
 ## Installation
 Fast Food is a mod built for the [Fabric Loader](https://fabricmc.net/). It requires [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api) to be installed; all other dependencies are installed with the mod.
 
+For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+
 ## At a Glance
 
 ### Food and ingredients
