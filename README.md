@@ -8,8 +8,8 @@ Fast Food is a mod built for the [Fabric Loader](https://fabricmc.net/). It requ
 
 ### Food and ingredients
 
-Fast Food | Ingredients 
-:-------------------------:|:-------------------------:|
+|Fast Food | Ingredients| 
+|----------|------------|
 ![image](https://user-images.githubusercontent.com/75272665/177467249-7ae7ca45-e337-4c0e-8415-046102b8c885.png) | ![image](https://user-images.githubusercontent.com/75272665/177465948-9ca0ff62-4f08-491c-8991-1bb0d9fa087c.png)
 
 ### Recipes
@@ -21,6 +21,12 @@ Pizza | Hamburger | Taco
 Chocolate Bar | French Fries | Soda
 :-------------------------:|:-------------------------:|:-------------------------:
 ![crafting-grid (1)](https://user-images.githubusercontent.com/75272665/177466590-a271c6b3-aff1-4000-be4a-637ee87c36f0.png) | ![crafting-grid (2)](https://user-images.githubusercontent.com/75272665/177466649-98c8c4bf-d78a-4361-b572-506bf941416f.png) | ![crafting-grid (4)](https://user-images.githubusercontent.com/75272665/177466869-ae0612a8-780d-4b68-aead-60ba6edbb991.png)
+
+### Foods Stats
+
+Name | Icon | Food Points | Saturation Restored | Effects 
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+Pizza | ![image](https://user-images.githubusercontent.com/75272665/177469008-40956614-e9a0-4b99-a38c-e3e73ff4ec38.png) | 8 (![image](https://user-images.githubusercontent.com/75272665/177469104-1334e415-5d89-4568-948c-dc6bad62c202.png)![image](https://user-images.githubusercontent.com/75272665/177469128-4a9397f8-ad0b-444c-a50f-02b41eaa159d.png)![image](https://user-images.githubusercontent.com/75272665/177469134-fee2dc43-e111-4bcf-a61f-3f851de5572a.png)![image](https://user-images.githubusercontent.com/75272665/177469140-073ca9f3-f937-4666-ad7e-b5f5752c3f01.png)) | 6 | ![image](https://user-images.githubusercontent.com/75272665/177469628-9ce667db-f2d8-4460-9a0b-136ed041e7d3.png) Speed III for 15 seconds ![image](https://user-images.githubusercontent.com/75272665/177469501-6f110b24-86c9-45d6-b170-a04e430106aa.png) Resistence for 15 seconds ![image](https://user-images.githubusercontent.com/75272665/177470651-b92d756e-dedc-4d32-91d5-6326772d1123.png) Jump Boost for 15 seconds
 
 
 
